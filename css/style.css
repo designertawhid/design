@@ -1,0 +1,142 @@
+body{
+    margin=0;
+    padding: 0;
+    outline: 0;
+    font-size: 16px;
+    font-weight: 400;
+    font-family: sans-serif;
+    background-image: url(../img/img1.jpg);
+    background-size: cover;
+}
+.a1{
+    width: 600px;
+    height: 600px;
+    margin: auto;
+}
+.a2{
+    width:600px;
+    height:200px;
+}
+.b1{
+    width:150px;
+    height:150px;
+    position: relative;
+    text-align: center;
+    text-align-last: center;
+    right:40px;
+    background:#00c3f0;
+    float:left;
+    
+    background-image: url(../img/mc.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 100px;
+}
+.b2{
+    width:150px;
+    height:150px;
+    position: relative;
+    left:75px;
+    background:#ffd932;
+    float:left;
+    background-image: url(../img/edit.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-size: 320px;
+    border-radius: 100px;
+    
+}
+.b3{
+    width:150px;
+    height:150px;
+    position: relative;
+    left:190px;
+    background:#e53687;
+    float:left;
+    background-image: url(../img/w.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 100px;
+}
+.a3{
+    width:600px;
+    height:200px;
+    
+}
+.c1{
+    width:150px;
+    height:150px;
+    position: relative;
+    right:40px;
+    background:#ce2bf5;
+    float:left;
+    background-image: url(../img/s.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 100px;
+    
+}
+.c2{
+    width:150px;
+    height:150px;
+    position: relative;
+    left:75px;
+    background:#18d0f2;
+    float:left;
+    background-image: url(../img/f.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 100px;
+}
+.c3{
+    width:150px;
+    height:150px;
+    position: relative;
+    left:190px;
+    background:#f22121;
+    float:left;
+    background-image: url(../img/e.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 100px;
+}
+.a4{
+    width:600px;
+    height:200px;
+}
+.d1{
+    width:150px;
+    height:150px;
+    position: relative;
+    right:40px;
+    background:rgb(255, 103, 48);
+    float:left;
+    background-image: url(../img/h.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 100px;
+}
+.d2{
+    width:150px;
+    height:150px;
+    position: relative;
+    left:75px;
+    background:#6537ff;
+    float:left;
+    background-image: url(../img/d.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 100px;
+}
+.d3{
+    width:150px;
+    height:150px;
+    position: relative;
+    left:190px;
+    background:#5bf73f;
+    float:left;
+    background-image: url(../img/i.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 100px;
+}
